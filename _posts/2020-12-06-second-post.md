@@ -86,8 +86,13 @@ zip : [세미프로젝트 zip파일](https://github.com/whdkwhdk90/whdkwhdk90.gi
 
 ### 구현 기능
 
-![로그인페이지](/assets/로그인페이지.PNG) <br/>
-![카카오로그인](/assets/카카오로그인.PNG) <br/>
+#### SNS & 일반 로그인
+
+![로그인페이지](/assets/로그인페이지.PNG){: width="50%" height="50%"} <br/>
+![카카오로그인](/assets/카카오로그인.PNG){: width="50%" height="50%"} <br/>
+
+
+
 ![회원가입페이지](/assets/회원가입페이지.PNG) <br/>
 ![postapi](/assets/postapi.PNG) <br/>
 ![id바르게](/assets/id바르게.PNG) <br/>
