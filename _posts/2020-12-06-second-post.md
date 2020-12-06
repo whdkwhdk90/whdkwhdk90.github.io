@@ -72,6 +72,11 @@ categories: jekyll update
                   * SNS 및 일반 로그인 / 좋아요 클릭 버튼 및 조회 기능
               
     
+### 담당 역할 : MVC패턴(Model 2) 설계 및 구현, Kakao Login API & 일반 로그인/ 로그아웃, Daum POST API를 통한 회원가입 기능 담당
+
+### DB 설계
+
+![세미프로젝트모델링](./assets/세미프로젝트모델링.png)
 
 
 
