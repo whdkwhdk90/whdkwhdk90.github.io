@@ -86,11 +86,11 @@ zip : [세미프로젝트 zip파일](https://github.com/whdkwhdk90/whdkwhdk90.gi
 
 ### 구현 기능
 
-![로그인페이지](/assets/로그인페이지.PNG)
-![카카오로그인](/assets/카카오로그인.PNG)
-![회원가입페이지](/assets/회원가입페이지.PNG)
-![postapi](/assets/postapi.PNG)
-![id 바르게](/assets/id 바르게.PNG)
-![ID중복](/assets/ID중복.PNG)
+![로그인페이지](/assets/로그인페이지.PNG) <br/>
+![카카오로그인](/assets/카카오로그인.PNG) <br/>
+![회원가입페이지](/assets/회원가입페이지.PNG) <br/>
+![postapi](/assets/postapi.PNG) <br/>
+![id 바르게](/assets/id 바르게.PNG) <br/>
+![ID중복](/assets/ID중복.PNG) <br/>
 
 
