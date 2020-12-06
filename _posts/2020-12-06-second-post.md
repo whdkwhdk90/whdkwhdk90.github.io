@@ -76,7 +76,7 @@ categories: jekyll update
 
 ### DB 설계
 
-![세미프로젝트모델링](./assets/세미프로젝트모델링.PNG)
+![세미프로젝트모델링](/assets/세미프로젝트모델링.PNG)
 
 
 
