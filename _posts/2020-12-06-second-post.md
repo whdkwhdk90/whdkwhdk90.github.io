@@ -5,7 +5,7 @@ categories: jekyll update
 ---
 [기본 사항]
 
-성명  | 이준혁  영문) Lee Jun Hyeok
+성명  | 한글) 이준혁        영문) Lee Jun Hyeok          
 :-------------: | :-------------:
 생년월일  | 1994년 10월 26일
 성별  | 남
