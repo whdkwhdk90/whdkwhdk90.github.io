@@ -12,8 +12,6 @@ categories: jekyll update
 생년월일  | 1994년 10월 26일 
 성별  | 남
 
----
-
 ## 학력 사항
 
 입학 년 월  | 졸업 년 월 | 출신학교 및 전공 | 구분 
@@ -40,8 +38,39 @@ categories: jekyll update
 :-------------: | :-------------: | :-------------: | :-------------: | :------------- 
 2020년 03월 25일 ~ 2020년 10월 29일 | KH정보교육원 | 스마트 콘텐츠 융합 응용 SW 엔지니어 양성 과정 | 100% |*ORACLE <br/>  SQL Programming<br/><br/> *JAVA  <br/>  Servlet / JSP, jdbc, Spring Framework, Mybatis, Ajax  <br/><br/> *HTML / CSS / JavaScript
 
-
-
 -------
+
+# 세미프로젝트
+
+### 프로젝트 명 : GOLMUCK SIKDANG
+
+### 수행 기간 : 2020년 07월 01일 ~ 2020년 07월 27일(27일간)
+
+### 개발 목표 : 대세 TV프로그램 '골목 식당'처럼 음식을 카테고리 별, 혹은 랜덤으로 추천하는 기능으로 음식 선택에 어려움을 느끼는 사람들에게
+###             조금이나마 고민거리를 덜어 줄 수 있도록 하는 사이트 구현
+
+**OS**  | Windows 
+:-------------: | :-------------:
+**IDE** | Eclipse, DBeaver
+**DBMS**  | Oracle Data Base 11g 
+**SERVER**  | Apache Tomcat 9.0
+**Design Tool**  | Bootstrap
+**Language**  | Java, HTML5, CSS3, Javascript, JQuery
+
+### 구현 기능 : 
+####   * 전체 페이지
+                  * 좋아요 버튼 클릭 사용 기능
+                  * 음식 클릭 후 레시피 조회 기능
+                  * 카테고리별(나라/조리) 음식 페이지 조회 기능
+                  * 연령/성별 좋아요 기반 인기 랭킹 기능
+                  * 해당 음식에 대한 음식점 지도 & 음식점 위치 카톡링크 전송 기능
+####   * 회원 서비스
+                  * SNS 및 일반 로그인 / 좋아요 클릭 버튼 및 조회 기능
+              
+    
+
+
+
+
 
 
