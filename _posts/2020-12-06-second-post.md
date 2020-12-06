@@ -38,5 +38,5 @@ categories: jekyll update
 
 기간  | 교육기관 | 교육과목 | 출석률 | 교육내용
 :-------------: | :-------------: | :-------------: | :-------------: | :-------------: 
-2020년 03월 25일 ~ 2020년 10월 29일 | KH정보교육원 | 스마트 콘텐츠 융합 응용 SW 엔지니어 양성 과정 | 100% | *ORACLE  SQL Programming  *JAVA  Servlet / JSP, jdbc, Spring Framework, Mybatis, Ajax  *HTML / CSS / JavaScript
+2020년 03월 25일 ~ 2020년 10월 29일 | KH정보교육원 | 스마트 콘텐츠 융합 응용 SW 엔지니어 양성 과정 | 100% |*ORACLE  -SQL Programming  <br/> *JAVA  Servlet / JSP, jdbc, Spring Framework, Mybatis, Ajax  <br/> *HTML / CSS / JavaScript
 
