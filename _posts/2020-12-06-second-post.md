@@ -78,7 +78,9 @@ categories: jekyll update
 
 ![세미프로젝트모델링](/assets/세미프로젝트모델링.PNG)
 
+### 기타 자료
 
+![PROJECT GOLMUCK_-728](/assets/PROJECT GOLMUCK_-728.pptx)
 
 
 
