@@ -94,7 +94,7 @@ author:
   name             : "Lee Jun Hyeok(이준혁)"
   avatar           : "/assets/leejunhyeok.jpg"
   bio              : "열정가득한 지원자 이준혁입니다."
-  location         : "Suwon"
+  location         : "Suwon-si, South Korea"
   email            : "whdkwhdk90@naver.com"
   links:
     - label: "Email"
@@ -111,7 +111,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/whdkwhdk90"
+       url: "https://github.com/whdkwhdk90"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
