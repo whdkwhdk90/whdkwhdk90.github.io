@@ -92,7 +92,7 @@ analytics:
 # Site Author
 author:
   name             : "Lee Jun Hyeok(이준혁)"
-  avatar           : "https://user-images.githubusercontent.com/62650790/101270793-e9756c00-37bf-11eb-94db-b97b8260e8f9.jpg"
+  avatar           : "/assets/leejunhyeok.jpg"
   bio              : "열정가득한 지원자 이준혁입니다."
   location         : "Suwon"
   email            : "whdkwhdk90@naver.com"
