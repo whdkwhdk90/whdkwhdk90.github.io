@@ -88,8 +88,8 @@ zip : [세미프로젝트 zip파일](https://github.com/whdkwhdk90/whdkwhdk90.gi
 
 #### SNS & 일반 로그인
 
-![로그인페이지](/assets/로그인페이지.PNG){: width="50%" height="50%"} <br/>
-![카카오로그인](/assets/카카오로그인.PNG){: width="50%" height="50%"} <br/>
+![로그인페이지](/assets/로그인페이지.PNG){: width="300" height="300"}  <br/>
+![카카오로그인](/assets/카카오로그인.PNG){: width="300" height="300"}  <br/>
 
 
 
