@@ -109,7 +109,7 @@ zip : [세미프로젝트 zip파일](https://github.com/whdkwhdk90/whdkwhdk90.gi
 ##### ID는 먼저 정규식을 통해 1차 필터링을 진행하고, 1차 필터링이 통과 되었다면 DB에 그 ID가 존재하는지 확인한다. 1차 필터링이 걸리거나 DB상에 ID가 존재하는 경우에는 중복이라고 뜨며 ID입력란에 focus를 못 벗어나도록 구현하였다.
 
 
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 -------
 
