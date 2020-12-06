@@ -10,9 +10,10 @@ categories: jekyll update
 성별      | 남
 
 
-|성명     | 이준혁  영문) Lee Jun Hyeok    |
-|생년월일 |  1994년 10월 26일              |
-|성별     |   남                          |
+First Header  | Second Header
+:-------------: | :-------------:
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
 ---
 [학력 사항]
