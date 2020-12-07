@@ -42,13 +42,13 @@ categories: jekyll update
 
 # 세미프로젝트
 
-#### 프로젝트 명 : GOLMUCK SIKDANG
+#### *프로젝트 명 : GOLMUCK SIKDANG
 
-#### 수행 기간 : 2020년 07월 01일 ~ 2020년 07월 27일(27일간)
+#### *수행 기간 : 2020년 07월 01일 ~ 2020년 07월 27일(27일간)
 
-#### 개발 목표 : 대세 TV프로그램 '골목 식당'처럼 음식을 카테고리 별, 혹은 랜덤으로 추천하는 기능으로 음식 선택에 어려움을 느끼는 사람들에게 조금이나마 고민거리를 덜어 줄 수 있도록 하는 사이트 구현 <br/>
+#### *개발 목표 : 대세 TV프로그램 '골목 식당'처럼 음식을 카테고리 별, 혹은 랜덤으로 추천하는 기능으로 음식 선택에 어려움을 느끼는 사람들에게 조금이나마 고민거리를 덜어 줄 수 있도록 하는 사이트 구현 <br/>
 
-#### 개발 환경
+#### *개발 환경
 
 **OS**  | Windows 
 :-------------: | :-------------:
@@ -58,7 +58,7 @@ categories: jekyll update
 **Design Tool**  | Bootstrap
 **Language**  | Java, HTML5, CSS3, Javascript, JQuery
 
-#### 구현 기능  
+#### *구현 기능  
 
 #####   * 전체 페이지
                   * 좋아요 버튼 클릭 사용 기능
@@ -72,21 +72,21 @@ categories: jekyll update
                   * SNS 및 일반 로그인 / 좋아요 클릭 버튼 및 조회 기능
               
     
-#### 담당 역할 : MVC패턴(Model 2) 설계 및 구현, Kakao Login API & 일반 로그인/ 로그아웃, Daum POST API를 통한 회원가입 기능 담당
+#### *담당 역할 : MVC패턴(Model 2) 설계 및 구현, Kakao Login API & 일반 로그인/ 로그아웃, Daum POST API를 통한 회원가입 기능 담당
 
-#### DB 설계
+#### *DB 설계
 
 <a href="url"><img src="/assets/세미프로젝트모델링.PNG" align="left" height="30%" width="35%" ></a>
 
-#### 기타 자료
+#### *기타 자료
 
 pptx : [세미프로젝트 pptx 파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/PROJECT%20GOLMUCK_-728.pptx) <br/>
 zip : [세미프로젝트 zip파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/SEMI_1_REAL_FINISH.zip) <br/>
 기획안 : [세미프로젝트 기획안](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/1%EC%A1%B0_%EA%B8%B0%ED%9A%8D%EC%95%88.txt) <br/>
 
-#### 구현 기능
+#### *구현 기능
 
-##### SNS & 일반 로그인
+##### *SNS & 일반 로그인
 
 <a href="url"><img src="/assets/로그인페이지.PNG" align="left" height="30%" width="35%" ></a>
 <a href="url"><img src="/assets/카카오로그인.PNG" align="left" height="100%" width="65%" ></a> 
