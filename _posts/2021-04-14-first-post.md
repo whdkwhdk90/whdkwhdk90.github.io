@@ -187,8 +187,7 @@ id값 정규식 검사 실시 후 DB상에 동일 id값이 있는지 Ajax를 통
 
   - 마이페이지
   <div width=400px height=350px>
-    <img src="/assets/달력.PNG" width=200px height=350px/>
-    <img src="/assets/postapi.PNG" width=200px height=350px/>
+    <img src="/assets/마이페이지.PNG" width=200px height=350px/>
   </div>  
  
 ```
@@ -215,9 +214,8 @@ id값 정규식 검사 실시 후 DB상에 동일 id값이 있는지 Ajax를 통
 ```   
  
  - 질문게시판
- <div width=400px height=350px>
-    <img src="/assets/유튜브캡처.PNG" width=200px height=350px/>
-    <img src="/assets/유튜브캡처2.PNG" width=200px height=350px/>
+ <div width=200px height=350px>
+    <img src="/assets/질문게시판.PNG" width=200px height=350px/>
  </div>  
  
 ```
