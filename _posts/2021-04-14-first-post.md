@@ -1,7 +1,6 @@
 ---
-제목 : "프로필"
+제목 : "Profile"
 날짜 : 2021 년 04 월 14 일 12:00 -0400
-categories: jekyll update
 ---
 
 ## 소개
