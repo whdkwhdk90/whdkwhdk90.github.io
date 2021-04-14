@@ -80,7 +80,7 @@
 
 ## 프로젝트 이력
 
-### KH정보교육원
+<h2 style="color:blue;">KH정보교육원</h2>
 <h3>세미프로젝트</h3>
 <ul>
     <li>프로젝트 명 : GOLMUCK SIKDANG</li>
