@@ -3,7 +3,7 @@
 날짜 : 2021 년 04 월 14 일 12:00 -0400
 ---
 
-<em style="color:red">화살표가 있는 탭은 접혀 있는 탭이니 클릭해주세요</em>
+<em style="color:red">* 화살표가 있는 탭은 접혀 있는 탭이니 클릭해주세요</em>
 
 ## 소개
 <ul>
@@ -82,7 +82,7 @@
 
 ## 프로젝트 이력
 <details>
-    <summary style="color:blue;">KH정보교육원</summary>
+    <summary><a style="color:blue">KH정보교육원</a></summary>
     <div markdwon="1">
         <h3 style="color:blue;">세미프로젝트</h3>
         <ul>
