@@ -106,9 +106,9 @@ SNS로 진행 시에는 API에서 제공되는 이름, 닉네임, 전화번호 �
 
   <div width=400px height=700px>
     <img src="/assets/회원가입페이지.PNG" width=200px height=350px/>
-    <img src="/assets/postapi.PNG" width=200px height=350px/>
     <img src="/assets/id바르게.PNG" width=200px height=350px/>
     <img src="/assets/ID중복.PNG" width=200px height=350px/>
+    <img src="/assets/postapi.PNG" width=400px height=350px/>
   </div>  
  
 ```
