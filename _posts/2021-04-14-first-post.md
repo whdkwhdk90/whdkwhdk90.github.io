@@ -61,6 +61,7 @@
     <li>eclipse</li>
     <li>intelliJ</li>
     <li>VSCODE</li>
+    <li>DBeaver</li>
 </ul>
 
 <h3>버전관리</h3>
@@ -77,7 +78,32 @@
 
 -------
 
-# 세미프로젝트
+## 프로젝트 이력
+
+### KH정보교육원
+<h3>세미프로젝트</h3>
+<ul>
+    <li>프로젝트 명 : GOLMUCK SIKDANG</li>
+    <li>수행 기간 : 2020년 07월 01일 ~ 2020년 07월 27일(27일간)</li>
+    <li>개발 목표 : 대세 TV프로그램 '골목 식당'처럼 음식을 카테고리 별, 혹은 랜덤으로 추천하는 기능으로 음식 선택에 어려움을 느끼는 사람들에게
+                   조금이나마 고민거리를 덜어 줄 수 있도록 하는 사이트 구현</li>
+    <li>개발 환경
+        <ul>
+            <li>OS : Windows</li>
+            <li>IDE : Eclipse,DBeaver</li>
+            <li>DB : Oracle DataBase 11g</li>
+            <li>SERVER : Apache Tomcat 9.0</li>
+            <li>Design Tool : Bootstrap</li>
+            <li>Language : Java, HTML5, CSS3, Javascript, JQuery</li>      
+        </ul>   
+    </li>
+    <li>구현기능
+        <ul>
+            
+        </ul>    
+        
+</ul>    
+
 
 #### 프로젝트 명 : GOLMUCK SIKDANG
 
