@@ -97,7 +97,7 @@
   <div width=400px height=350px>
     <img src="/assets/로그인페이지.PNG" width=200px height=350px/>
     <img src="/assets/카카오로그인.PNG" width=200px height=350px/>
-  <div>  
+  </div>  
     
 ```
 회원가입을 SNS로 하는 것과 직접 입력하여 하는 방법이 있고 
@@ -109,7 +109,7 @@ SNS로 진행 시에는 API에서 제공되는 이름, 닉네임, 전화번호 �
     <img src="/assets/postapi.PNG" width=200px height=350px/>
     <img src="/assets/id바르게.PNG" width=200px height=350px/>
     <img src="/assets/ID중복.PNG" width=200px height=350px/>
-  <div>  
+  </div>  
  
 ```
 id값 정규식 검사 실시 후 DB상에 동일 id값이 있는지 Ajax를 통해 그 값을 확인한다. 모든 입력란의 값이 유효해야 회원가입이 가능하다.
