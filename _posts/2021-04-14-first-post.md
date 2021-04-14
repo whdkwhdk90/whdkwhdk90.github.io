@@ -3,8 +3,6 @@
 날짜 : 2021 년 04 월 14 일 12:00 -0400
 ---
 
-<em style="color:red">* 화살표가 있는 탭은 접혀 있는 탭이니 클릭부탁드립니다!</em>
-
 ## 소개
 - 이름 : 이준혁</li>
 - 생년월일 : '94.10.26
@@ -56,44 +54,44 @@
 - apache / tomcat
 
 ## 프로젝트 이력
-<details>
-    <summary><a style="color:blue">KH정보교육원</a></summary>
-    <div markdown="1">
-        ### Semi Project
-        - 프로젝트 명 : GOLMUCK SIKDANG
-        - 수행 기간 : 2020년 07월 01일 ~ 2020년 07월 27일(27일간)
-        - 개발 목표 : 대세 TV프로그램 '골목 식당'처럼 음식을 카테고리 별, 혹은 랜덤으로 추천하는 기능으로 음식 선택에 어려움을 느끼는 사람들에게
-                           조금이나마 고민거리를 덜어 줄 수 있도록 하는 사이트 구현
-        - 개발 환경
-          - OS : Windows
-          - IDE : Eclipse,DBeaver
-          - DB : Oracle DataBase 11g
-          - SERVER : Apache Tomcat 9.0
-          - Design Tool : Bootstrap
-          - Language : Java, HTML5, CSS3, Javascript, JQuery
 
-        - 구현기능
-          - 전체페이지
-            - 좋아요 버튼 클릭 사용 기능
-            - 음식 클릭 후 레시피 조회 기능
-            - 카테고리별(나라/조리) 음식 페이지 조회 기능
-            - 연령/성별 좋아요 기반 인기 랭킹 기능
-            - 해당 음식에 대한 음식점 지도 & 음식점 위치 카톡링크 전송 기능
-          - 회원서비스
-            - SNS 및 일반 회원가입 / 마이페이지 / 회원탈퇴 기능
-            - SNS 및 일반 로그인 / 좋아요 클릭 버튼 및 조회 기능
+### Semi Project
+- 프로젝트 명 : GOLMUCK SIKDANG
+- 수행 기간 : 2020년 07월 01일 ~ 2020년 07월 27일(27일간)
+- 개발 목표 : 대세 TV프로그램 '골목 식당'처럼 음식을 카테고리 별, 혹은 랜덤으로 추천하는 기능으로 음식 선택에 어려움을 느끼는 사람들에게
+                   조금이나마 고민거리를 덜어 줄 수 있도록 하는 사이트 구현
+- 개발 환경
+  - OS : Windows
+  - IDE : Eclipse,DBeaver
+  - DB : Oracle DataBase 11g
+  - SERVER : Apache Tomcat 9.0
+  - Design Tool : Bootstrap
+  - Language : Java, HTML5, CSS3, Javascript, JQuery
 
-        - 담당 역할 
-          - MVC패턴(Model 2 설계 및 구현
-          - DAUM POST API를 이용한 회원가입 / 마이페이지 / 로그인 / 로그아웃 / 회원탈퇴 기능
-        
-        - 첨부자료
-          - pptx : [세미프로젝트 pptx 파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/PROJECT_GOLMUCK_-728.pptx)
-          - zip : [세미프로젝트 zip파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/SEMI_1_REAL_FINISH.zip)
-          - 기획안 : [세미프로젝트 기획안](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/1%EC%A1%B0_%EA%B8%B0%ED%9A%8D%EC%95%88.txt)
-        
-        - DB모델링
-          - <img src='/assets/세미프로젝트모델링.PNG' width=150px height=150px/> 
+- 구현기능
+
+  - 전체페이지
+    - 좋아요 버튼 클릭 사용 기능
+    - 음식 클릭 후 레시피 조회 기능
+    - 카테고리별(나라/조리) 음식 페이지 조회 기능
+    - 연령/성별 좋아요 기반 인기 랭킹 기능
+    - 해당 음식에 대한 음식점 지도 & 음식점 위치 카톡링크 전송 기능
+
+  - 회원서비스
+    - SNS 및 일반 회원가입 / 마이페이지 / 회원탈퇴 기능
+    - SNS 및 일반 로그인 / 좋아요 클릭 버튼 및 조회 기능
+
+- 담당 역할 
+  - MVC패턴(Model 2 설계 및 구현
+  - DAUM POST API를 이용한 회원가입 / 마이페이지 / 로그인 / 로그아웃 / 회원탈퇴 기능
+
+- 첨부자료
+  - pptx : [세미프로젝트 pptx 파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/PROJECT_GOLMUCK_-728.pptx)
+  - zip : [세미프로젝트 zip파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/SEMI_1_REAL_FINISH.zip)
+  - 기획안 : [세미프로젝트 기획안](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/1%EC%A1%B0_%EA%B8%B0%ED%9A%8D%EC%95%88.txt)
+
+- DB모델링
+  - <img src='/assets/세미프로젝트모델링.PNG' width=150px height=150px/> 
       
 ##### *SNS & 일반 로그인
 
@@ -196,6 +194,5 @@ zip : [세미프로젝트 zip파일](https://github.com/whdkwhdk90/whdkwhdk90.gi
 &nbsp;
 <br/>
 ###### ID는 먼저 정규식을 통해 1차 필터링을 진행하고, 1차 필터링이 통과 되었다면 DB에 그 ID가 존재하는지 확인한다. 1차 필터링이 걸리거나 DB상에 ID가 존재하는 경우에는 중복이라고 뜨며 ID입력란에 focus를 못 벗어나도록 구현하였다.
-    </div> 
-</details>    
+  
 
