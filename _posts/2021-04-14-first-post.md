@@ -93,6 +93,12 @@
 - DB모델링
   - <img src='/assets/세미프로젝트모델링.PNG' width=150px height=150px/> 
       
+      
+      
+      
+      
+      
+      
 ##### *SNS & 일반 로그인
 
 <a href="url"><img src="/assets/로그인페이지.PNG" align="left" height="30%" width="35%" ></a>
@@ -116,52 +122,52 @@
 <br/>
 ###### ID는 먼저 정규식을 통해 1차 필터링을 진행하고, 1차 필터링이 통과 되었다면 DB에 그 ID가 존재하는지 확인한다. 1차 필터링이 걸리거나 DB상에 ID가 존재하는 경우에는 중복이라고 뜨며 ID입력란에 focus를 못 벗어나도록 구현하였다.
             
-         
-        <h3>Final Project</h3>
-        <ul>
-            <li>프로젝트 명 : WESCHE(we + schedule)</li>
-            <li>수행 기간 : 2020년 08월 30일 ~ 2020년 10월 29일(61일간)</li>
-            <li>개발 목표 : 포스트 코로나 시대에 있어서 스터디에 필요한 동영상 검색, 스터디 조 매칭, 질문게시판 및 타이머를 사용할 수 있는 사이트 구현</li>
-            <li>개발 환경
-                <ul>
-                    <li>OS : Windows, MAC</li>
-                    <li>IDE : Eclipse,DBeaver</li>
-                    <li>DB : Oracle DataBase 11g</li>
-                    <li>SERVER : Apache Tomcat 9.0</li>
-                    <li>Design Tool : Bootstrap</li>
-                    <li>Language : Java, HTML5, CSS3, Javascript, JQuery</li>      
-                </ul>   
-            </li>
-            <li>구현기능
-               <ul>
-                    <h4>전체페이지</h4>
-                    <ul>
-                        <li>실시간 질의응답(채팅 기능) – 1:1 채팅방 생성</li>
-                        <li>캘린더 - 작성된 일정 마우스로 이동 및 삭제
-                                  - 스케줄 및 끝내지 못한 일 미루기</li>
-                        <li>타이머(공부량 체크) – 일/주/월 별 공부량 그래프화</li>
-                        <li>유튜브 영상 검색 기능</li>
-                        <li>질문 및 게시판 - 사진 및 이미지 업로드
-                                          - 해시태그를 통한 검색 기능</li>
-                    </ul>
-                    <h4>회원서비스</h4>
-                    <ul>
-                        <li>회원가입 / 마이페이지 / 회원탈퇴 기능</li>
-                        <li>로그인 / 좋아요 클릭 버튼 및 조회 기능</li>
-                    </ul>
-               </ul>    
-            </li> 
-            <li>담당 역할
-                <ol>
-                    <li>spring framework MVC패턴(Model 2) 설계 및 구현</li>
-                    <li>youtube Search API 활용 영상 검색 게시판 구현</li>
-                    <li>Google Calendar API 활용 화면 구현</li>
-                    <li>질문 게시판 및 페이징 처리 구현</li>
-                    <li>회원가입, 로그인, 로그아웃, 마이페이지 수정, 회원 탈퇴 기능 구현</li>
-                </ol>    
-            </li>
-        </ul>         
-        #### DB 설계
+  
+  
+  
+  ### Final Project
+- 프로젝트 명 : WESCHE(we + schedule)
+- 수행 기간 : 2020년 08월 30일 ~ 2020년 10월 29일(61일간)
+- 개발 목표 : 포스트 코로나 시대에 있어서 스터디에 필요한 동영상 검색, 스터디 조 매칭, 질문게시판 및 타이머를 사용할 수 있는 사이트 구현
+- 개발 환경
+  - OS : Windows, MAC
+  - IDE : Eclipse,DBeaver
+  - DB : Oracle DataBase 11g
+  - SERVER : Apache Tomcat 9.0
+  - Design Tool : Bootstrap
+  - Language : Java, HTML5, CSS3, Javascript, JQuery
+
+- 구현기능
+
+  - 전체페이지
+    - 실시간 질의응답(채팅 기능) – 1:1 채팅방 생성
+    - 캘린더 - 작성된 일정 마우스로 이동 및 삭제
+            - 스케줄 및 끝내지 못한 일 미루기
+    - 타이머(공부량 체크) – 일/주/월 별 공부량 그래프화
+    - 유튜브 영상 검색 기능
+    - 질문 및 게시판 - 사진 및 이미지 업로드
+                    - 해시태그를 통한 검색 기능
+
+  - 회원서비스
+    - 회원가입 / 마이페이지 / 회원탈퇴 기능
+    - 로그인 / 좋아요 클릭 버튼 및 조회 기능
+
+- 담당 역할 
+  - spring framework MVC패턴(Model 2) 설계 및 구현
+  - youtube Search API 활용 영상 검색 게시판 구현
+  - Google Calendar API 활용 화면 구현
+  - 질문 게시판 및 페이징 처리 구현
+  - 회원가입, 로그인, 로그아웃, 마이페이지 수정, 회원 탈퇴 기능 구현
+
+- 첨부자료
+  - [파이널프로젝트 pptx 파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/Final_Project_PPT_1028%EC%88%98%EC%A0%95.pptx)
+  - [파이널프로젝트 zip파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/20201028Final.zip)
+  - [파이널프로젝트 기획안](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/%ED%8C%8C%EC%9D%B4%EB%84%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EA%B8%B0%ED%9A%8D%EC%95%88.txt)
+
+- DB모델링
+  - <img src='/assets/세미프로젝트모델링.PNG' width=150px height=150px/> 
+  
+      
 
 ![세미프로젝트모델링](/assets/세미프로젝트모델링.PNG)
 
