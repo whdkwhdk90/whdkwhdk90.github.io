@@ -130,7 +130,7 @@
                     <li>기획안 : [세미프로젝트 기획안](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/1%EC%A1%B0_%EA%B8%B0%ED%9A%8D%EC%95%88.txt)</li>
                 </ul>    
             <li>DB 모델링
-                <a href="url"><img src="/assets/세미프로젝트모델링.PNG" align="left" height="30%" width="35%" ></a>
+                <img src='/assets/세미프로젝트모델링.PNG' width=150px height=150px/> 
             </li>
 
 ##### *SNS & 일반 로그인
