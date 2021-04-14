@@ -39,37 +39,36 @@
     <li>javascript/jquery</li>
     <li>html/jsp/css</li>
 </ul>
-<br/>
+
 <ul>
     <h3>DB</h3>
     <li>oracle</li>
     <li><a href="https://www.erdcloud.com/">https://www.erdcloud.com/</a> &nbsp;(modeling tool)</li>
 </ul>
-<br/>
+
 <ul>
     <h3>Framework</h3>
-    <li>
-       <h3>Framework</h3>
+    <li>spring
        <ul>
            <li>mvc</li>
        </ul>    
     </li>   
     <li>mybatis</li>
 </ul>
-<br/>
+
 <ul>
     <h3>IDE</h3>
     <li>eclipse</li>
     <li>intelliJ</li>
     <li>VSCODE</li>
 </ul>
-<br/>
+
 <ul>
     <h3>버전관리</h3>
     <li>svn</li>
     <li>github</li>
 </ul>
-<br/>
+
 <ul>
     <h3>ETC</h3>
     <li>Ajax</li>
