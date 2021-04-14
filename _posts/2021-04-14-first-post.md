@@ -38,12 +38,48 @@ categories: jekyll update
 :-------------: | :-------------: | :-------------: | :-------------: | :------------- 
 2020년 03월 25일 ~ 2020년 10월 29일 | KH정보교육원 | 스마트 콘텐츠 융합 응용 SW 엔지니어 양성 과정 | 100% |*ORACLE <br/>  SQL Programming<br/><br/> *JAVA  <br/>  Servlet / JSP, jdbc, Spring Framework, Mybatis, Ajax  <br/><br/> *HTML / CSS / JavaScript
 
-##기술 스택
+## 기술스택
 <ul>
     <h3>Language</h3>
     <li>java</li>
     <li>javascript/jquery</li>
     <li>html/jsp/css</li>
+</ul>
+<br/>
+<ul>
+    <h3>DB</h3>
+    <li>oracle</li>
+    <li>https://www.erdcloud.com/(modeling tool)</li>
+</ul>
+<br/>
+<ul>
+    <h3>Framework</h3>
+    <li>
+       <h3>Framework</h3>
+       <ul>
+           <li>mvc</li>
+       </ul>    
+    </li>   
+    <li>mybatis</li>
+</ul>
+<br/>
+<ul>
+    <h3>IDE</h3>
+    <li>eclipse</li>
+    <li>intelliJ</li>
+    <li>VSCODE</li>
+</ul>
+<br/>
+<ul>
+    <h3>버전관리</h3>
+    <li>svn</li>
+    <li>github</li>
+</ul>
+<br/>
+<ul>
+    <h3>ETC</h3>
+    <li>Ajax</li>
+    <li>apache/tomcat</li>
 </ul>
 
 -------
