@@ -69,7 +69,6 @@
   - Language : Java, HTML5, CSS3, Javascript, JQuery
 
 - 구현기능
-
   - 전체페이지
     - 좋아요 버튼 클릭 사용 기능
     - 음식 클릭 후 레시피 조회 기능
@@ -100,20 +99,17 @@
     <img src="/assets/로그인페이지.PNG" width=150px height=150px />
     <img src="/assets/카카오로그인.PNG" width=150px height=150px />
     ##### 기존 회원들은 REGISTER를 통해서 회원가입을 통해 로그인을 진행하고 SNS로그인은 각각 KAKAO API와 네아로(네이버 아이디로 로그인) API를 통해 진행한다. 만약 ID가 존재한다면, 가입하지않고 존재하지않는다면 즉시 가입시켜 로그인한다.
-
     <a href="url"><img src="/assets/회원가입페이지.PNG" align="left" height="100%" width="40%" ></a>
     <a href="url"><img src="/assets/postapi.PNG" align="left" height="100%" width="60%" ></a> <br/><br/>
-
     &nbsp;
     <br/><br/><br/><br/><br/>
     ###### LOGIN에서 REGISTER로 넘어가면 ID입력란으로 자동 포커싱되고 모든 항목은 그 입력란에서 벗어나는 순간 AJAX로 정규식을 통해 검사를 진행한다. 만약 ID입력란의 값이 없거나 중복체크가 제대로 되지 않다면 다른 입력란을 눌러도 자동으로 ID입력란으로 포커싱이 넘어가고 모든 입력란의 체크가 완료되어야 회원가입이 된다.
-
     <a href="url"><img src="/assets/id바르게.PNG" align="left" height="100%" width="40%" ></a>
     <a href="url"><img src="/assets/ID중복.PNG" align="left" height="100%" width="60%" ></a> <br/><br/>
-
-    &nbsp;
+   &nbsp;
     <br/>
     ###### ID는 먼저 정규식을 통해 1차 필터링을 진행하고, 1차 필터링이 통과 되었다면 DB에 그 ID가 존재하는지 확인한다. 1차 필터링이 걸리거나 DB상에 ID가 존재하는 경우에는 중복이라고 뜨며 ID입력란에 focus를 못 벗어나도록 구현하였다.
+  </div>
 </details>     
      
 ### Final Project
@@ -163,21 +159,17 @@
     <div markdown="1">
       #### 구현 기능
       ##### SNS & 일반 로그인
-      <a href="url"><img src="/assets/로그인페이지.PNG" align="left" height="30%" width="35%" ></a>
-      <a href="url"><img src="/assets/카카오로그인.PNG" align="left" height="100%" width="65%" ></a> 
-      &nbsp;
+      <img src="/assets/로그인페이지.PNG" width=150px height=150px/>
+      <img src="/assets/카카오로그인.PNG" width=150px height=150px/>
       <br/>
-      ###### 기존 회원들은 REGISTER를 통해서 회원가입을 통해 로그인을 진행하고 SNS로그인은 각각 KAKAO API와 네아로(네이버 아이디로 로그인) API를 통해 진행한다. 만약 ID가 존재한다면, 가입하지않고 존재하지않는다면 즉시 가입시켜 로그인한다.
-      <a href="url"><img src="/assets/회원가입페이지.PNG" align="left" height="100%" width="40%" ></a>
-      <a href="url"><img src="/assets/postapi.PNG" align="left" height="100%" width="60%" ></a> <br/><br/>
-      &nbsp;
-      <br/><br/><br/><br/><br/>
-      ###### LOGIN에서 REGISTER로 넘어가면 ID입력란으로 자동 포커싱되고 모든 항목은 그 입력란에서 벗어나는 순간 AJAX로 정규식을 통해 검사를 진행한다. 만약 ID입력란의 값이 없거나 중복체크가 제대로 되지 않다면 다른 입력란을 눌러도 자동으로 ID입력란으로 포커싱이 넘어가고 모든 입력란의 체크가 완료되어야 회원가입이 된다.
-      <a href="url"><img src="/assets/id바르게.PNG" align="left" height="100%" width="40%" ></a>
-      <a href="url"><img src="/assets/ID중복.PNG" align="left" height="100%" width="60%" ></a> <br/><br/>
-      &nbsp;
-      <br/>
+      기존 회원들은 REGISTER를 통해서 회원가입을 통해 로그인을 진행하고 SNS로그인은 각각 KAKAO API와 네아로(네이버 아이디로 로그인) API를 통해 진행한다. 만약 ID가 존재한다면, 가입하지않고 존재하지않는다면 즉시 가입시켜 로그인한다.
+      <img src="/assets/회원가입페이지.PNG" width=150px height=150px/>
+      <img src="/assets/postapi.PNG" width=150px height=150px/> 
+      LOGIN에서 REGISTER로 넘어가면 ID입력란으로 자동 포커싱되고 모든 항목은 그 입력란에서 벗어나는 순간 AJAX로 정규식을 통해 검사를 진행한다. 만약 ID입력란의 값이 없거나 중복체크가 제대로 되지 않다면 다른 입력란을 눌러도 자동으로 ID입력란으로 포커싱이 넘어가고 모든 입력란의 체크가 완료되어야 회원가입이 된다.
+      <img src="/assets/id바르게.PNG" width=150px height=150px/>
+      <img src="/assets/ID중복.PNG" align="left" height="100%" width="60%" >
       ###### ID는 먼저 정규식을 통해 1차 필터링을 진행하고, 1차 필터링이 통과 되었다면 DB에 그 ID가 존재하는지 확인한다. 1차 필터링이 걸리거나 DB상에 ID가 존재하는 경우에는 중복이라고 뜨며 ID입력란에 focus를 못 벗어나도록 구현하였다.
+  </div>      
 </details>
 
 
