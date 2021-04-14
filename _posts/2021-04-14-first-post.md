@@ -48,7 +48,7 @@
     <li><a href="https://www.erdcloud.com/" target="_blank">https://www.erdcloud.com/</a> &nbsp;(modeling tool)</li>
 </ul>
 
-<h3>Framework</h3>
+<h3>framework</h3>
 <ul>
     <li>spring
        <ul>
@@ -83,48 +83,62 @@
 ## 프로젝트 이력
 <details>
     <summary><a style="color:blue">KH정보교육원</a></summary>
-    <div markdwon="1">
-        <h3 style="color:blue;">세미프로젝트</h3>
-        <ul>
-            <li>프로젝트 명 : GOLMUCK SIKDANG</li>
-            <li>수행 기간 : 2020년 07월 01일 ~ 2020년 07월 27일(27일간)</li>
-            <li>개발 목표 : 대세 TV프로그램 '골목 식당'처럼 음식을 카테고리 별, 혹은 랜덤으로 추천하는 기능으로 음식 선택에 어려움을 느끼는 사람들에게
-                           조금이나마 고민거리를 덜어 줄 수 있도록 하는 사이트 구현</li>
-            <li>개발 환경
+    <div markdown="1">
+        <details>
+            <summary>세미프로젝트></summary>
+            <div markdown="1">
                 <ul>
-                    <li>OS : Windows</li>
-                    <li>IDE : Eclipse,DBeaver</li>
-                    <li>DB : Oracle DataBase 11g</li>
-                    <li>SERVER : Apache Tomcat 9.0</li>
-                    <li>Design Tool : Bootstrap</li>
-                    <li>Language : Java, HTML5, CSS3, Javascript, JQuery</li>      
-                </ul>   
-            </li>
-            <li>구현기능
-               <ul>
-                    <h4>전체페이지</h4>
-                    <ul>
-                        <li>좋아요 버튼 클릭 사용 기능</li>
-                        <li>음식 클릭 후 레시피 조회 기능</li>
-                        <li>카테고리별(나라/조리) 음식 페이지 조회 기능</li>
-                        <li>연령/성별 좋아요 기반 인기 랭킹 기능</li>
-                        <li>해당 음식에 대한 음식점 지도 & 음식점 위치 카톡링크 전송 기능</li>
-                    </ul>
-                    <h4>회원서비스</h4>
-                    <ul>
-                        <li>SNS 및 일반 회원가입 / 마이페이지 / 회원탈퇴 기능</li>
-                        <li>SNS 및 일반 로그인 / 좋아요 클릭 버튼 및 조회 기능</li>
-                    </ul>
-               </ul>    
-            </li> 
-            <li>담당 역할
-                <ol>
-                    <li>MVC패턴(Model 2 설계 및 구현</li>
-                    <li>DAUM POST API를 이용한 회원가입 / 마이페이지 / 로그인 / 로그아웃 / 회원탈퇴 기능</li>
-                </ol>    
-            </li>
-        </ul> 
+                    <li>프로젝트 명 : GOLMUCK SIKDANG</li>
+                    <li>수행 기간 : 2020년 07월 01일 ~ 2020년 07월 27일(27일간)</li>
+                    <li>개발 목표 : 대세 TV프로그램 '골목 식당'처럼 음식을 카테고리 별, 혹은 랜덤으로 추천하는 기능으로 음식 선택에 어려움을 느끼는 사람들에게
+                                   조금이나마 고민거리를 덜어 줄 수 있도록 하는 사이트 구현</li>
+                    <li>개발 환경
+                        <ul>
+                            <li>OS : Windows</li>
+                            <li>IDE : Eclipse,DBeaver</li>
+                            <li>DB : Oracle DataBase 11g</li>
+                            <li>SERVER : Apache Tomcat 9.0</li>
+                            <li>Design Tool : Bootstrap</li>
+                            <li>Language : Java, HTML5, CSS3, Javascript, JQuery</li>      
+                        </ul>   
+                    </li>
+                    <li>구현기능
+                       <ul>
+                            <h4>전체페이지</h4>
+                            <ul>
+                                <li>좋아요 버튼 클릭 사용 기능</li>
+                                <li>음식 클릭 후 레시피 조회 기능</li>
+                                <li>카테고리별(나라/조리) 음식 페이지 조회 기능</li>
+                                <li>연령/성별 좋아요 기반 인기 랭킹 기능</li>
+                                <li>해당 음식에 대한 음식점 지도 & 음식점 위치 카톡링크 전송 기능</li>
+                            </ul>
+                            <h4>회원서비스</h4>
+                            <ul>
+                                <li>SNS 및 일반 회원가입 / 마이페이지 / 회원탈퇴 기능</li>
+                                <li>SNS 및 일반 로그인 / 좋아요 클릭 버튼 및 조회 기능</li>
+                            </ul>
+                       </ul>    
+                    </li> 
+                    <li>담당 역할
+                        <ol>
+                            <li>MVC패턴(Model 2 설계 및 구현</li>
+                            <li>DAUM POST API를 이용한 회원가입 / 마이페이지 / 로그인 / 로그아웃 / 회원탈퇴 기능</li>
+                        </ol>    
+                    </li>
+                </ul>
+            </div>    
+        </details>    
+        
+        
+        <h3>세미프로젝트</h3>
+         
+        
+        
     </div>
+    
+    
+    
+    
 </details>    
    
 
