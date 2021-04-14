@@ -123,18 +123,15 @@
                     <li>DAUM POST API를 이용한 회원가입 / 마이페이지 / 로그인 / 로그아웃 / 회원탈퇴 기능</li>
                 </ol>    
             </li>
-            
-            #### *DB 설계
-
-<a href="url"><img src="/assets/세미프로젝트모델링.PNG" align="left" height="30%" width="35%" ></a>
-
-#### *기타 자료
-
-pptx : [세미프로젝트 pptx 파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/PROJECT%20GOLMUCK_-728.pptx) <br/>
-zip : [세미프로젝트 zip파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/SEMI_1_REAL_FINISH.zip) <br/>
-기획안 : [세미프로젝트 기획안](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/1%EC%A1%B0_%EA%B8%B0%ED%9A%8D%EC%95%88.txt) <br/>
-
-#### *구현 기능
+            <li>프로젝트 자료
+                <ul>
+                    <li>pptx : [세미프로젝트 pptx 파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/PROJECT%20GOLMUCK_-728.pptx)</li>
+                    <li>zip : [세미프로젝트 zip파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/SEMI_1_REAL_FINISH.zip)</li>
+                    <li>기획안 : [세미프로젝트 기획안](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/1%EC%A1%B0_%EA%B8%B0%ED%9A%8D%EC%95%88.txt)</li>
+                </ul>    
+            <li>DB 모델링
+                <a href="url"><img src="/assets/세미프로젝트모델링.PNG" align="left" height="30%" width="35%" ></a>
+            </li>
 
 ##### *SNS & 일반 로그인
 
