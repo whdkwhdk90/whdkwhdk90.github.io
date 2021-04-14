@@ -49,7 +49,7 @@ categories: jekyll update
 <ul>
     <h3>DB</h3>
     <li>oracle</li>
-    <li>https://www.erdcloud.com/</li>(modeling tool)
+    <li>https://www.erdcloud.com/ &nbsp; (modeling tool)</li>
 </ul>
 <br/>
 <ul>
