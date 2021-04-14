@@ -93,31 +93,30 @@
 - DB모델링
   - <img src='/assets/세미프로젝트모델링.PNG' width=150px height=150px/> 
      
-#### SNS & 일반 로그인
+<details>
+    <summary>구현기능 설명</summary>
+    <div markdown="1">
+    #### SNS & 일반 로그인
+    <img src="/assets/로그인페이지.PNG" width=150px height=150px />
+    <img src="/assets/카카오로그인.PNG" width=150px height=150px />
+    ##### 기존 회원들은 REGISTER를 통해서 회원가입을 통해 로그인을 진행하고 SNS로그인은 각각 KAKAO API와 네아로(네이버 아이디로 로그인) API를 통해 진행한다. 만약 ID가 존재한다면, 가입하지않고 존재하지않는다면 즉시 가입시켜 로그인한다.
 
-<img src="/assets/로그인페이지.PNG" width=150px height=150px />
-<img src="/assets/카카오로그인.PNG" width=150px height=150px />
+    <a href="url"><img src="/assets/회원가입페이지.PNG" align="left" height="100%" width="40%" ></a>
+    <a href="url"><img src="/assets/postapi.PNG" align="left" height="100%" width="60%" ></a> <br/><br/>
 
-##### 기존 회원들은 REGISTER를 통해서 회원가입을 통해 로그인을 진행하고 SNS로그인은 각각 KAKAO API와 네아로(네이버 아이디로 로그인) API를 통해 진행한다. 만약 ID가 존재한다면, 가입하지않고 존재하지않는다면 즉시 가입시켜 로그인한다.
+    &nbsp;
+    <br/><br/><br/><br/><br/>
+    ###### LOGIN에서 REGISTER로 넘어가면 ID입력란으로 자동 포커싱되고 모든 항목은 그 입력란에서 벗어나는 순간 AJAX로 정규식을 통해 검사를 진행한다. 만약 ID입력란의 값이 없거나 중복체크가 제대로 되지 않다면 다른 입력란을 눌러도 자동으로 ID입력란으로 포커싱이 넘어가고 모든 입력란의 체크가 완료되어야 회원가입이 된다.
 
-<a href="url"><img src="/assets/회원가입페이지.PNG" align="left" height="100%" width="40%" ></a>
-<a href="url"><img src="/assets/postapi.PNG" align="left" height="100%" width="60%" ></a> <br/><br/>
+    <a href="url"><img src="/assets/id바르게.PNG" align="left" height="100%" width="40%" ></a>
+    <a href="url"><img src="/assets/ID중복.PNG" align="left" height="100%" width="60%" ></a> <br/><br/>
 
-&nbsp;
-<br/><br/><br/><br/><br/>
-###### LOGIN에서 REGISTER로 넘어가면 ID입력란으로 자동 포커싱되고 모든 항목은 그 입력란에서 벗어나는 순간 AJAX로 정규식을 통해 검사를 진행한다. 만약 ID입력란의 값이 없거나 중복체크가 제대로 되지 않다면 다른 입력란을 눌러도 자동으로 ID입력란으로 포커싱이 넘어가고 모든 입력란의 체크가 완료되어야 회원가입이 된다.
-
-<a href="url"><img src="/assets/id바르게.PNG" align="left" height="100%" width="40%" ></a>
-<a href="url"><img src="/assets/ID중복.PNG" align="left" height="100%" width="60%" ></a> <br/><br/>
-
-&nbsp;
-<br/>
-###### ID는 먼저 정규식을 통해 1차 필터링을 진행하고, 1차 필터링이 통과 되었다면 DB에 그 ID가 존재하는지 확인한다. 1차 필터링이 걸리거나 DB상에 ID가 존재하는 경우에는 중복이라고 뜨며 ID입력란에 focus를 못 벗어나도록 구현하였다.
-            
-  
-  
-  
-  ### Final Project
+    &nbsp;
+    <br/>
+    ###### ID는 먼저 정규식을 통해 1차 필터링을 진행하고, 1차 필터링이 통과 되었다면 DB에 그 ID가 존재하는지 확인한다. 1차 필터링이 걸리거나 DB상에 ID가 존재하는 경우에는 중복이라고 뜨며 ID입력란에 focus를 못 벗어나도록 구현하였다.
+</details>     
+     
+### Final Project
 - 프로젝트 명 : WESCHE(we + schedule)
 - 수행 기간 : 2020년 08월 30일 ~ 2020년 10월 29일(61일간)
 - 개발 목표 : 포스트 코로나 시대에 있어서 스터디에 필요한 동영상 검색, 스터디 조 매칭, 질문게시판 및 타이머를 사용할 수 있는 사이트 구현
@@ -158,39 +157,29 @@
 
 - DB모델링
   - <img src='/assets/세미프로젝트모델링.PNG' width=150px height=150px/> 
-  
-      
 
-![세미프로젝트모델링](/assets/세미프로젝트모델링.PNG)
+<details>
+    <summary>구현기능 설명</summary>
+    <div markdown="1">
+      #### 구현 기능
+      ##### SNS & 일반 로그인
+      <a href="url"><img src="/assets/로그인페이지.PNG" align="left" height="30%" width="35%" ></a>
+      <a href="url"><img src="/assets/카카오로그인.PNG" align="left" height="100%" width="65%" ></a> 
+      &nbsp;
+      <br/>
+      ###### 기존 회원들은 REGISTER를 통해서 회원가입을 통해 로그인을 진행하고 SNS로그인은 각각 KAKAO API와 네아로(네이버 아이디로 로그인) API를 통해 진행한다. 만약 ID가 존재한다면, 가입하지않고 존재하지않는다면 즉시 가입시켜 로그인한다.
+      <a href="url"><img src="/assets/회원가입페이지.PNG" align="left" height="100%" width="40%" ></a>
+      <a href="url"><img src="/assets/postapi.PNG" align="left" height="100%" width="60%" ></a> <br/><br/>
+      &nbsp;
+      <br/><br/><br/><br/><br/>
+      ###### LOGIN에서 REGISTER로 넘어가면 ID입력란으로 자동 포커싱되고 모든 항목은 그 입력란에서 벗어나는 순간 AJAX로 정규식을 통해 검사를 진행한다. 만약 ID입력란의 값이 없거나 중복체크가 제대로 되지 않다면 다른 입력란을 눌러도 자동으로 ID입력란으로 포커싱이 넘어가고 모든 입력란의 체크가 완료되어야 회원가입이 된다.
+      <a href="url"><img src="/assets/id바르게.PNG" align="left" height="100%" width="40%" ></a>
+      <a href="url"><img src="/assets/ID중복.PNG" align="left" height="100%" width="60%" ></a> <br/><br/>
+      &nbsp;
+      <br/>
+      ###### ID는 먼저 정규식을 통해 1차 필터링을 진행하고, 1차 필터링이 통과 되었다면 DB에 그 ID가 존재하는지 확인한다. 1차 필터링이 걸리거나 DB상에 ID가 존재하는 경우에는 중복이라고 뜨며 ID입력란에 focus를 못 벗어나도록 구현하였다.
+</details>
 
-#### 기타 자료
 
-pptx : [세미프로젝트 pptx 파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/PROJECT%20GOLMUCK_-728.pptx) <br/>
-zip : [세미프로젝트 zip파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/SEMI_1_REAL_FINISH.zip) <br/>
-기획안 : [세미프로젝트 기획안](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/1%EC%A1%B0_%EA%B8%B0%ED%9A%8D%EC%95%88.txt) <br/>
-
-#### 구현 기능
-
-##### SNS & 일반 로그인
-
-<a href="url"><img src="/assets/로그인페이지.PNG" align="left" height="30%" width="35%" ></a>
-<a href="url"><img src="/assets/카카오로그인.PNG" align="left" height="100%" width="65%" ></a> 
-&nbsp;
-<br/>
-###### 기존 회원들은 REGISTER를 통해서 회원가입을 통해 로그인을 진행하고 SNS로그인은 각각 KAKAO API와 네아로(네이버 아이디로 로그인) API를 통해 진행한다. 만약 ID가 존재한다면, 가입하지않고 존재하지않는다면 즉시 가입시켜 로그인한다.
-
-<a href="url"><img src="/assets/회원가입페이지.PNG" align="left" height="100%" width="40%" ></a>
-<a href="url"><img src="/assets/postapi.PNG" align="left" height="100%" width="60%" ></a> <br/><br/>
-
-&nbsp;
-<br/><br/><br/><br/><br/>
-###### LOGIN에서 REGISTER로 넘어가면 ID입력란으로 자동 포커싱되고 모든 항목은 그 입력란에서 벗어나는 순간 AJAX로 정규식을 통해 검사를 진행한다. 만약 ID입력란의 값이 없거나 중복체크가 제대로 되지 않다면 다른 입력란을 눌러도 자동으로 ID입력란으로 포커싱이 넘어가고 모든 입력란의 체크가 완료되어야 회원가입이 된다.
-
-<a href="url"><img src="/assets/id바르게.PNG" align="left" height="100%" width="40%" ></a>
-<a href="url"><img src="/assets/ID중복.PNG" align="left" height="100%" width="60%" ></a> <br/><br/>
-
-&nbsp;
-<br/>
-###### ID는 먼저 정규식을 통해 1차 필터링을 진행하고, 1차 필터링이 통과 되었다면 DB에 그 ID가 존재하는지 확인한다. 1차 필터링이 걸리거나 DB상에 ID가 존재하는 경우에는 중복이라고 뜨며 ID입력란에 focus를 못 벗어나도록 구현하였다.
   
 
