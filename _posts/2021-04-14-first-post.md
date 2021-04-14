@@ -94,22 +94,22 @@
  
 - 구현기능 설명
   - SNS & 일반 로그인  // 회원가입
-  <div width=600px height=450px>
-    <img src="/assets/로그인페이지.PNG" width=300px height=450px/>
-    <img src="/assets/카카오로그인.PNG" width=300px height=450px/>
+  <div width=400px height=350px>
+    <img src="/assets/로그인페이지.PNG" width=200px height=350px/>
+    <img src="/assets/카카오로그인.PNG" width=200px height=350px/>
   <div>  
     
 ```
 회원가입을 SNS로 하는 것과 직접 입력하여 하는 방법이 있고 SNS로 진행 시에는 API에서 제공되는 이름, 닉네임, 전화번호 등으로 회원가입을 진행한다.
 ```
-  <div width=600px height=450px>
-    <img src="/assets/회원가입페이지.PNG" width=300px height=450px/>
-    <img src="/assets/postapi.PNG" width=300px height=450px/>
+  <div width=400px height=350px>
+    <img src="/assets/회원가입페이지.PNG" width=200px height=350px/>
+    <img src="/assets/postapi.PNG" width=200px height=350px/>
   <div>  
  
- <div width=600px height=450px>
-    <img src="/assets/id바르게.PNG" width=300px height=450px/>
-    <img src="/assets/ID중복.PNG" width=300px height=450px/>
+ <div width=400px height=350px>
+    <img src="/assets/id바르게.PNG" width=200px height=350px/>
+    <img src="/assets/ID중복.PNG" width=200px height=350px/>
   <div>  
  
 ```
