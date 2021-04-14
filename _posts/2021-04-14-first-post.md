@@ -124,7 +124,9 @@
                 </ol>    
             </li>
             <li>프로젝트 자료
-                -pptx : [세미프로젝트 pptx 파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/PROJECT GOLMUCK_-728.pptx)
+                <ul>
+                    <li>-pptx : [세미프로젝트 pptx 파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/PROJECT_GOLMUCK_-728.pptx)</li>
+                </ul>    
                 -zip : [세미프로젝트 zip파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/SEMI_1_REAL_FINISH.zip)
                 -기획안 : [세미프로젝트 기획안](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/1%EC%A1%B0_%EA%B8%B0%ED%9A%8D%EC%95%88.txt)
             <li>DB 모델링
