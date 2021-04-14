@@ -80,7 +80,7 @@
 
 ## 프로젝트 이력
 <details>
-    <summary><h2 style="color:blue;">KH정보교육원</h2></summary>
+    <h2 style="color:blue;"><summary>KH정보교육원</summary></h2>
     <div markdwon="1">
         <h3 style="color:blue;">세미프로젝트</h3>
         <ul>
