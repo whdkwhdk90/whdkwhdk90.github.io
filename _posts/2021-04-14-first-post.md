@@ -12,7 +12,7 @@
     <li>취미 : 탁구, 노래부르기, 당구, 만화</li>
     <li>성격유형(MBTI) : ESFJ-T</li>
     <li>Email : whdkwhdk90@naver.com</li>
-    <li>GitHub : https://github.com/whdkwhdk90</li>
+    <li>GitHub : <a href="https://github.com/whdkwhdk90">https://github.com/whdkwhdk90</a></li>
 </ul>
 
 ## 수료교육
@@ -43,7 +43,7 @@
 <ul>
     <h3>DB</h3>
     <li>oracle</li>
-    <li>https://www.erdcloud.com/ &nbsp;(modeling tool)</li>
+    <li><a href="https://www.erdcloud.com/">https://www.erdcloud.com/</a> &nbsp;(modeling tool)</li>
 </ul>
 <br/>
 <ul>
