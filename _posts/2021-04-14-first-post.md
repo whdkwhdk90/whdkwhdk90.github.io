@@ -157,8 +157,10 @@
 #### 구현 기능
 ##### SNS & 일반 로그인
 <br/>
-<img src="/assets/로그인페이지.PNG" width=300px height=450px/>
-<img src="/assets/카카오로그인.PNG" width=300px height=450px/>
+<div width=600px height=450px>
+  <img src="/assets/로그인페이지.PNG" width=300px height=450px/>
+  <img src="/assets/카카오로그인.PNG" width=300px height=450px/>
+<div>  
 <br/>
 '기존 회원들은 REGISTER를 통해서 회원가입을 통해 로그인을 진행하고 SNS로그인은 각각 KAKAO API와 네아로(네이버 아이디로 로그인) API를 통해 진행한다. 만약 ID가 존재한다면, 가입하지않고 존재하지않는다면 즉시 가입시켜 로그인한다.'
 <img src="/assets/회원가입페이지.PNG" width=150px height=150px/>
