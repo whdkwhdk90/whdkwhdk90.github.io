@@ -33,21 +33,21 @@
 </ul>  
 
 ## 기술스택
+<h3>Language</h3>
 <ul>
-    <h3>Language</h3>
     <li>java</li>
     <li>javascript/jquery</li>
     <li>html/jsp/css</li>
 </ul>
 
+<h3>DB</h3>
 <ul>
-    <h3>DB</h3>
     <li>oracle</li>
     <li><a href="https://www.erdcloud.com/" target="_blank">https://www.erdcloud.com/</a> &nbsp;(modeling tool)</li>
 </ul>
 
+<h3>Framework</h3>
 <ul>
-    <h3>Framework</h3>
     <li>spring
        <ul>
            <li>mvc</li>
@@ -56,21 +56,21 @@
     <li>mybatis</li>
 </ul>
 
+<h3>IDE</h3>
 <ul>
-    <h3>IDE</h3>
     <li>eclipse</li>
     <li>intelliJ</li>
     <li>VSCODE</li>
 </ul>
 
+<h3>버전관리</h3>
 <ul>
-    <h3>버전관리</h3>
     <li>svn</li>
     <li>github</li>
 </ul>
 
+<h3>ETC</h3>
 <ul>
-    <h3>ETC</h3>
     <li>Ajax</li>
     <li>apache/tomcat</li>
 </ul>
