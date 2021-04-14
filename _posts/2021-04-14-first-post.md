@@ -92,17 +92,13 @@
 
 - DB모델링
   - <img src='/assets/세미프로젝트모델링.PNG' width=150px height=150px/> 
-      
-      
-      
-##### *SNS & 일반 로그인
+     
+#### SNS & 일반 로그인
 
-<img src="/assets/로그인페이지.PNG" height="30%" width="35%" >
-<img src="/assets/카카오로그인.PNG" height="100%" width="65%" >
-&nbsp;
-<br/>
+<img src="/assets/로그인페이지.PNG" width=150px height=150px />
+<img src="/assets/카카오로그인.PNG" width=150px height=150px />
 
-###### 기존 회원들은 REGISTER를 통해서 회원가입을 통해 로그인을 진행하고 SNS로그인은 각각 KAKAO API와 네아로(네이버 아이디로 로그인) API를 통해 진행한다. 만약 ID가 존재한다면, 가입하지않고 존재하지않는다면 즉시 가입시켜 로그인한다.
+##### 기존 회원들은 REGISTER를 통해서 회원가입을 통해 로그인을 진행하고 SNS로그인은 각각 KAKAO API와 네아로(네이버 아이디로 로그인) API를 통해 진행한다. 만약 ID가 존재한다면, 가입하지않고 존재하지않는다면 즉시 가입시켜 로그인한다.
 
 <a href="url"><img src="/assets/회원가입페이지.PNG" align="left" height="100%" width="40%" ></a>
 <a href="url"><img src="/assets/postapi.PNG" align="left" height="100%" width="60%" ></a> <br/><br/>
