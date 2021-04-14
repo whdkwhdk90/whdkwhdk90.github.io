@@ -148,40 +148,79 @@ id값 정규식 검사 실시 후 DB상에 동일 id값이 있는지 Ajax를 통
 - 담당 역할 
   - spring framework MVC패턴(Model 2) 설계 및 구현
   - youtube Search API 활용 영상 검색 게시판 구현
-  - Google Calendar API 활용 화면 구현
+  - Fullcalendar API 활용 화면 구현
   - 질문 게시판 및 페이징 처리 구현
   - 회원가입, 로그인, 로그아웃, 마이페이지 수정, 회원 탈퇴 기능 구현
 
 - 첨부자료
-  - [파이널프로젝트 pptx 파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/Final_Project_PPT_1028%EC%88%98%EC%A0%95.pptx)
+  - [파이널프로젝트 pptx파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/Final_Project_PPT_1028%EC%88%98%EC%A0%95.pptx)
   - [파이널프로젝트 zip파일](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/20201028Final.zip)
   - [파이널프로젝트 기획안](https://github.com/whdkwhdk90/whdkwhdk90.github.io/blob/main/assets/%ED%8C%8C%EC%9D%B4%EB%84%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EA%B8%B0%ED%9A%8D%EC%95%88.txt)
 
 - DB모델링
-  - <img src='/assets/세미프로젝트모델링.PNG' width=150px height=150px/> 
+  - <img src='/assets/파이널용db.png' width=150px height=150px/> 
 
 - 구현기능 설명
-  - SNS & 일반 로그인  // 회원가입
-  <div width=600px height=450px>
-    <img src="/assets/로그인페이지.PNG" width=300px height=450px/>
-    <img src="/assets/카카오로그인.PNG" width=300px height=450px/>
-  <div>  
+  - 회원가입
+  <div width=200px height=350px>
+    <img src="/assets/회원가입캡처.PNG" width=200px height=350px/>
+  </div>  
+ 
+```
+회원가입 관련 내용
+```  
+
+  - 로그인
+  <div width=400px height=450px>
+    <img src="/assets/로그인캡처.png" width=200px height=350px/>
+    <img src="/assets/로그인캡처1.png" width=200px height=350px/>
+  </div>  
     
+  <div width=400px height=450px>
+    <img src="/assets/로그인캡처2.png" width=200px height=350px/>
+    <img src="/assets/로그인캡처3.png" width=200px height=350px/>
+  </div>    
+   
 ```
-회원가입을 SNS로 하는 것과 직접 입력하여 하는 방법이 있고 SNS로 진행 시에는 API에서 제공되는 이름, 닉네임, 전화번호 등으로 회원가입을 진행한다.
+로그인관련 내용
 ```
-  <div width=600px height=450px>
-    <img src="/assets/회원가입페이지.PNG" width=300px height=450px/>
-    <img src="/assets/postapi.PNG" width=300px height=450px/>
-  <div>  
+
+  - 마이페이지
+  <div width=400px height=350px>
+    <img src="/assets/달력.PNG" width=200px height=350px/>
+    <img src="/assets/postapi.PNG" width=200px height=350px/>
+  </div>  
  
- <div width=600px height=450px>
-    <img src="/assets/id바르게.PNG" width=300px height=450px/>
-    <img src="/assets/ID중복.PNG" width=300px height=450px/>
-  <div>  
+```
+마이페이지 관련 내용
+```  
+
+  - Youtube
+  <div width=400px height=350px>
+    <img src="/assets/유튜브캡처.PNG" width=200px height=350px/>
+    <img src="/assets/유튜브캡처2.PNG" width=200px height=350px/>
+  </div>   
  
 ```
-id값 정규식 검사 실시 후 DB상에 동일 id값이 있는지 Ajax를 통해 그 값을 확인한다. 모든 입력란의 값이 유효해야 회원가입이 가능하다.
-회원가입 시 Daum Post API를 통해 주소값을 받아와서 DB에 저장시킨다.
+유튜브 관련 내용
+```  
+
+  - Calendar
+  <div width=200px height=350px>
+    <img src="/assets/달력.PNG" width=200px height=350px/>
+  </div>  
+ 
+```
+달력 관련 내용
+```   
+ 
+ - 질문게시판
+ <div width=400px height=350px>
+    <img src="/assets/유튜브캡처.PNG" width=200px height=350px/>
+    <img src="/assets/유튜브캡처2.PNG" width=200px height=350px/>
+ </div>  
+ 
+```
+질문게시판 관련 내용
 ``` 
 
