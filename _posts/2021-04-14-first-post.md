@@ -170,15 +170,12 @@ id값 정규식 검사 실시 후 DB상에 동일 id값이 있는지 Ajax를 통
 ```  
 
   - 로그인
-  <div width=400px height=450px>
+  <div width=400px height=700px>
     <img src="/assets/로그인캡처.png" width=200px height=350px/>
     <img src="/assets/로그인캡처1.png" width=200px height=350px/>
-  </div>  
-    
-  <div width=400px height=450px>
     <img src="/assets/로그인캡처2.png" width=200px height=350px/>
     <img src="/assets/로그인캡처3.png" width=200px height=350px/>
-  </div>    
+  </div>   
    
 ```
 로그인관련 내용
