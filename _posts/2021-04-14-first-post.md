@@ -6,79 +6,54 @@
 <em style="color:red">* 화살표가 있는 탭은 접혀 있는 탭이니 클릭부탁드립니다!</em>
 
 ## 소개
-<ul>
-    <li>이름 : 이준혁</li>
-    <li>생년월일 : '94.10.26</li>
-    <li>성별 : 남</li>
-    <li>군필 여부 : 육군 제2포병여단 통신소대장(중위 예편)</li>
-    <li>취미 : 탁구, 노래부르기, 당구, 만화</li>
-    <li>성격유형(MBTI) : ESFJ-T</li>
-    <li>Email : whdkwhdk90@naver.com</li>
-    <li>GitHub : <a href="https://github.com/whdkwhdk90" target="_blank">https://github.com/whdkwhdk90</a></li>
-</ul>
+- 이름 : 이준혁</li>
+- 생년월일 : '94.10.26
+- 성별 : 남
+- 군필 여부 : 육군 제2포병여단 통신소대장(중위 예편)
+- 취미 : 탁구, 노래부르기, 당구, 만화
+- 성격유형(MBTI) : ESFJ-T
+- Email : whdkwhdk90@naver.com
+- GitHub: [github.com/whdkwhdk90](https://github.com/whdkwhdk90)
 
 ## 수료교육
-<ul>
-    <li>JAVA를 이용한 웹개발자 양성과정(2020.03 ~ 2020.10)</li>
-</ul>  
+- JAVA를 이용한 웹개발자 양성과정(2020.03 ~ 2020.10)
 
 ## 학력
-<ul>
-    <li>화홍고등학교 졸업(2010.3 ~ 2013.2)</li>
-    <li>단국대학교 응용컴퓨터공학과 졸업(2013.3 ~ 2017.2)</li>
-</ul>    
+- 화홍고등학교 졸업(2010.3 ~ 2013.2)
+- 단국대학교 응용컴퓨터공학과 졸업(2013.3 ~ 2017.2)   
 
 ## 자격증
-<ul>
-    <li>운전면허(1종 보통)</li>
-    <li>워드프로세서 단일등급</li>
-</ul>  
+- 운전면허(1종 보통)
+- 워드프로세서 단일등급
 
 ## 기술스택
-<h3>Language</h3>
-<ul>
-    <li>java</li>
-    <li>javascript/jquery</li>
-    <li>html/jsp/css</li>
-</ul>
+### Language
+- java
+- javascript/jquery
+- html/jsp/css
 
-<h3>DB</h3>
-<ul>
-    <li>oracle</li>
-    <li><a href="https://www.erdcloud.com/" target="_blank">https://www.erdcloud.com/</a> &nbsp;(modeling tool)</li>
-</ul>
+### DB
+- oracle
+- [https://www.erdcloud.com/](https://www.erdcloud.com/) &nbsp;(modeling tool)
 
-<h3>framework</h3>
-<ul>
-    <li>spring
-       <ul>
-           <li>mvc</li>
-       </ul>    
-    </li>   
-    <li>mybatis</li>
-</ul>
+### framework
+- spring
+  - mvc
+- mybatis
 
-<h3>IDE</h3>
-<ul>
-    <li>eclipse</li>
-    <li>intelliJ</li>
-    <li>VSCODE</li>
-    <li>DBeaver</li>
-</ul>
+### IDE
+- eclipse
+- intelliJ
+- VSCODE
+- DBeaver
 
-<h3>버전관리</h3>
-<ul>
-    <li>svn</li>
-    <li>github</li>
-</ul>
+### 버전관리
+- svn
+- github
 
-<h3>ETC</h3>
-<ul>
-    <li>Ajax</li>
-    <li>apache/tomcat</li>
-</ul>
-
--------
+### ETC
+- Ajax
+- apache / tomcat
 
 ## 프로젝트 이력
 <details>
@@ -118,10 +93,10 @@
                </ul>    
             </li> 
             <li>담당 역할
-                <ol>
+                <ul>
                     <li>MVC패턴(Model 2 설계 및 구현</li>
                     <li>DAUM POST API를 이용한 회원가입 / 마이페이지 / 로그인 / 로그아웃 / 회원탈퇴 기능</li>
-                </ol>    
+                </ul>    
             </li>
         </ul>   
         ## 첨부자료 <br>
