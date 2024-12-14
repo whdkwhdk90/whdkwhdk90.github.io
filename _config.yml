@@ -91,11 +91,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lee Jun Hyeok(이준혁)"
-  avatar           : "/assets/leejunhyeok.jpg"
-  bio              : "열정가득한 지원자 이준혁입니다."
-  location         : "Suwon-si, South Korea"
-  email            : "whdkwhdk90@naver.com"
+  name             : ""
+  avatar           : ""
+  bio              : ""
+  location         : ""
+  email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
